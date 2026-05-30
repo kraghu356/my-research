@@ -1,5 +1,7 @@
 # Research Repository by kraghu356
 
+[![CI](https://github.com/kraghu356/my-research/actions/workflows/ci.yml/badge.svg)](https://github.com/kraghu356/my-research/actions/workflows/ci.yml)
+
 A personal research repository for organizing academic papers, datasets, and references.
 
 ## Overview
