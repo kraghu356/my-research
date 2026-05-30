@@ -8,6 +8,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-05-30
+
+### Changed
+- GitHub Actions CI workflow updated to use Node.js 24 via `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24` environment variable
+
 ## [1.0.0] - 2026-05-30
 
 ### Added
@@ -21,5 +26,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - GitHub Actions CI badge in README
 - `CHANGELOG.md` to track notable changes
 
-[Unreleased]: https://github.com/kraghu356/my-research/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/kraghu356/my-research/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/kraghu356/my-research/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/kraghu356/my-research/releases/tag/v1.0.0
