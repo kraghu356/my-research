@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "my-research"
+message: "If you use this repository in your research, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: kraghu356
+    alias: kraghu356
+    email: 356backup@gmail.com
+repository-code: "https://github.com/kraghu356/my-research"
+url: "https://github.com/kraghu356/my-research"
+abstract: >
+  A personal research repository for organizing academic papers,
+  datasets, and references.
+license: CC-BY-4.0
+date-released: "2026-05-30"
