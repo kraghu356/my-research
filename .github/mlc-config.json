@@ -1,0 +1,8 @@
+{
+  "ignorePatterns": [
+    { "pattern": "^https://creativecommons.org" }
+  ],
+  "retryOn429": true,
+  "retryCount": 3,
+  "timeout": "20s"
+}
