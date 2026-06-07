@@ -33,3 +33,5 @@ venv/
 # IDE
 .vscode/
 .idea/
+paper1/unsw_nb15/processed/
+*.csv
